@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# Hi there 👋
 <!--
 **rizwankce/rizwankce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://rizwan.dev/www/images/rizwan_tiny_face.png" alt="Rizwan's tiny face avatar" width="200" align="right" style="border-radius:50%;
+    overflow:hidden;"/>
+
+This is Rizwan. I'm currently working as an iOS Enginner at [Scantrust](https://www.scantrust.com)
+
+
+## 🔭 Projects
+
+- Checkout my projects [here](https://rizwan.dev/work.html)
+- Currently working on SwiftUI revamp of [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)
+
+## 📚 Blog
+
+I occtionally write blog post and you can find all my posts on my personal [blog](https://blog.rizwan.dev).
+Blog is powered by Gatsby and React. You can follow along my blog post via [rss](https://blog.rizwan.dev/rss.xml)
+###### _yes! I know javascript and I prefer writing web apps on JS_
+
+## 👯 Colloboration
+
+I will be open for all sort of colloborations or mentorship on Apple tech (iOS/iPadOS/macOS). Feel free to reach me.
+
+## 📫 Contact
+
+Best way to reach me is via [Twitter](https://www.twitter.com/rizzu26). DM is open for all.
+
+### 😄 Pronouns
+He/Him
+
+###### _⚡ Fun fact: I'm a indian who can't handle spicy food_
