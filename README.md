@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://rizwan.dev/www/images/rizwan_tiny_face.png" alt="Rizwan's tiny face avatar" width="200" align="right" style="border-radius:50%;
-    overflow:hidden;"/>
-
 This is Rizwan. I'm currently working as an iOS Enginner at [Scantrust](https://www.scantrust.com)
 
 
