@@ -20,8 +20,7 @@ This is Rizwan. I'm currently working as an iOS Enginner at [Scantrust](https://
 ## 🔭 Projects
 
 - Checkout my projects [here](https://rizwan.dev/work.html)
-- Currently working on SwiftUI revamp of [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)
-- Also helping, [TwitterText](https://github.com/nysander/twitter-text) and [UnicodeURL](https://github.com/nysander/UnicodeURL)
+- Currently learning SwiftUI with other OSS projects
 
 ## 📚 Blog
 
