@@ -24,8 +24,8 @@ This is Rizwan. I'm currently working as an iOS Enginner at [Scantrust](https://
 
 ## 📚 Blog
 
-I occtionally write blog post and you can find all my posts on my personal [blog](https://blog.rizwan.dev).
-Blog is powered by Gatsby and React. You can follow along my blog post via [rss](https://blog.rizwan.dev/rss.xml)
+I occtionally write blog post and you can find all my posts on my personal [blog](https://rizwan.dev/blog/).
+Blog is powered by Gatsby and React. You can follow along my blog post via [rss](https://rizwan.dev/rss.xml)
 ###### _yes! I know javascript and I prefer writing web apps on JS_
 
 ## 👯 Colloboration
@@ -34,7 +34,7 @@ I will be open for all sort of colloborations or mentorship on Apple tech (iOS/i
 
 ## 📫 Contact
 
-Best way to reach me is via [Twitter](https://www.twitter.com/rizzu26). DM is open for all.
+Best way to reach me is via [Mastodon](https://mastodon.social/@rizwan). DM is open for all.
 
 ### 😄 Pronouns
 He/Him
