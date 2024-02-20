@@ -19,7 +19,7 @@ This is Rizwan. I'm currently working as an iOS Enginner at [Scantrust](https://
 
 ## 🔭 Projects
 
-- Checkout my projects [here](https://rizwan.dev/work.html)
+- Checkout my projects [here](https://rizwan.dev/work/)
 - Currently learning SwiftUI with other OSS projects
 
 ## 📚 Blog
