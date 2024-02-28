@@ -25,7 +25,7 @@ This is Rizwan. I'm currently working as an iOS Enginner at [Scantrust](https://
 ## 📚 Blog
 
 I occtionally write blog post and you can find all my posts on my personal [blog](https://rizwan.dev/blog/).
-Blog is powered by Gatsby and React. You can follow along my blog post via [rss](https://rizwan.dev/rss.xml)
+Blog is powered by Astro and React. You can follow along my blog post via [rss](https://rizwan.dev/rss.xml)
 ###### _yes! I know javascript and I prefer writing web apps on JS_
 
 ## 👯 Colloboration
